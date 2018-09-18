@@ -1,0 +1,25 @@
+{
+  "name": "youtube-webcrawler--01",
+  "version": "1.0.0",
+  "description": "# Site `https://frontendfront.com/`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diariodonoob/youtube-webcrawler--01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diariodonoob/youtube-webcrawler--01/issues"
+  },
+  "homepage": "https://github.com/diariodonoob/youtube-webcrawler--01#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^6.0.0"
+  }
+}
